@@ -28,6 +28,7 @@ con partes de sigilo
 - Cómo interactúan estas mecánicas para crear una experiencia de juego única.
 
 ## Jugabilidad:
+<!-- Diseñar un acertijo de ejemplo para prototipado -->
 La resolucion de acertijos
 las zonas de sigilo 
 las partes de parkur
