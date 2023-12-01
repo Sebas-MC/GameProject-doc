@@ -72,6 +72,20 @@ cuando se pueda
 - Tareas específicas y fechas de entrega.
 - Equipo de desarrollo y sus roles.
 
+### Prototipo 1.
+Dinámica: Puzzle lógicos.
+
+Ciudad europea de la época renacentista.
+
+Versión: Single player vs computer.
+
+Objetivo de la misión: Salir del lugar de la escena cumpliendo con el descifrado de acertijos.
+
+Acertijos:
+- 
+
+
+
 ## Pruebas y Ajustes:
 jugarlo y ver que esta mal
 - Estrategia de pruebas para identificar errores y problemas de equilibrio.
